@@ -37,8 +37,15 @@ let messages = [
     {
         name: "usr1",
         date : "30/3/2023",
-        msg : "shit",
+        msg : "please stop",
         like : 69
+    }
+
+    {
+        name: "usr2",
+        date : "30/3/2023",
+        msg : "Use me as dislike button",
+        like : 1099829
     }
 ]
 console.log( messages[0].msg )
